@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inteliaedu&label=Profile%20views&color=0e75b6&style=flat" alt="inteliaedu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inteliaedu" alt="inteliaedu" /></a> </p>
-
 - 🔭 Aquí podrás encontrar los códigos relacionados con el canal de [Youtube](https://www.youtube.com/channel/UCFi_GOHZiFGQHS6xbaGp_HQ)
 
 - 👨‍💻 All of my projects are available at [https://github.com/inteliaedu/inteliaedu](https://github.com/inteliaedu/inteliaedu)

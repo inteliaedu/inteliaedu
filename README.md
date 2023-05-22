@@ -19,8 +19,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/roberboni"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="roberboni" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inteliaedu&show_icons=true&locale=en&layout=compact" alt="inteliaedu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inteliaedu&show_icons=true&locale=en" alt="inteliaedu" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inteliaedu&" alt="inteliaedu" /></p>
